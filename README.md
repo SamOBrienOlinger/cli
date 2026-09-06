@@ -15,6 +15,8 @@ A Code Institute workspace for command-line and development-environment practice
 
 ## Getting started
 
+Git is required for the clone command below.
+
 Clone the workspace to inspect or develop it:
 
 ```bash
